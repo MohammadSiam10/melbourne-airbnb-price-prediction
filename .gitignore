@@ -1,0 +1,25 @@
+# Data files
+
+*.csv
+data/
+datasets/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Python
+
+**pycache**/
+*.pyc
+
+# Environment
+
+.env
+.venv/
+venv/
+
+# Reports/submissions
+
+*.zip
+*_predictions.csv
